@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\classtime\\Desktop\\FinalExam\\MyFinalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D271C63B-C11A-4931-98BD-5050FDC964EF}|MyFinalProject\\MyFinalProject.csproj|c:\\users\\classtime\\desktop\\finalexam\\myfinalproject\\myfinalproject\\areas\\adminpanel\\views\\game\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D271C63B-C11A-4931-98BD-5050FDC964EF}|MyFinalProject\\MyFinalProject.csproj|solutionrelative:myfinalproject\\areas\\adminpanel\\views\\game\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D271C63B-C11A-4931-98BD-5050FDC964EF}|MyFinalProject\\MyFinalProject.csproj|c:\\users\\classtime\\desktop\\finalexam\\myfinalproject\\myfinalproject\\areas\\adminpanel\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D271C63B-C11A-4931-98BD-5050FDC964EF}|MyFinalProject\\MyFinalProject.csproj|solutionrelative:myfinalproject\\areas\\adminpanel\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D271C63B-C11A-4931-98BD-5050FDC964EF}|MyFinalProject\\MyFinalProject.csproj|c:\\users\\classtime\\desktop\\finalexam\\myfinalproject\\myfinalproject\\areas\\adminpanel\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D271C63B-C11A-4931-98BD-5050FDC964EF}|MyFinalProject\\MyFinalProject.csproj|solutionrelative:myfinalproject\\areas\\adminpanel\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D271C63B-C11A-4931-98BD-5050FDC964EF}|MyFinalProject\\MyFinalProject.csproj|c:\\users\\classtime\\desktop\\finalexam\\myfinalproject\\myfinalproject\\areas\\adminpanel\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D271C63B-C11A-4931-98BD-5050FDC964EF}|MyFinalProject\\MyFinalProject.csproj|solutionrelative:myfinalproject\\areas\\adminpanel\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D271C63B-C11A-4931-98BD-5050FDC964EF}|MyFinalProject\\MyFinalProject.csproj|c:\\users\\classtime\\desktop\\finalexam\\myfinalproject\\myfinalproject\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D271C63B-C11A-4931-98BD-5050FDC964EF}|MyFinalProject\\MyFinalProject.csproj|solutionrelative:myfinalproject\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D271C63B-C11A-4931-98BD-5050FDC964EF}|MyFinalProject\\MyFinalProject.csproj|c:\\users\\classtime\\desktop\\finalexam\\myfinalproject\\myfinalproject\\areas\\adminpanel\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D271C63B-C11A-4931-98BD-5050FDC964EF}|MyFinalProject\\MyFinalProject.csproj|solutionrelative:myfinalproject\\areas\\adminpanel\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D271C63B-C11A-4931-98BD-5050FDC964EF}|MyFinalProject\\MyFinalProject.csproj|c:\\users\\classtime\\desktop\\finalexam\\myfinalproject\\myfinalproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D271C63B-C11A-4931-98BD-5050FDC964EF}|MyFinalProject\\MyFinalProject.csproj|solutionrelative:myfinalproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D271C63B-C11A-4931-98BD-5050FDC964EF}|MyFinalProject\\MyFinalProject.csproj|c:\\users\\classtime\\desktop\\finalexam\\myfinalproject\\myfinalproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D271C63B-C11A-4931-98BD-5050FDC964EF}|MyFinalProject\\MyFinalProject.csproj|solutionrelative:myfinalproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D271C63B-C11A-4931-98BD-5050FDC964EF}|MyFinalProject\\MyFinalProject.csproj|c:\\users\\classtime\\desktop\\finalexam\\myfinalproject\\myfinalproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D271C63B-C11A-4931-98BD-5050FDC964EF}|MyFinalProject\\MyFinalProject.csproj|solutionrelative:myfinalproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\FinalExam\\MyFinalProject\\MyFinalProject\\Areas\\AdminPanel\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "MyFinalProject\\Areas\\AdminPanel\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\FinalExam\\MyFinalProject\\MyFinalProject\\Areas\\AdminPanel\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "MyFinalProject\\Areas\\AdminPanel\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T09:51:29.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\FinalExam\\MyFinalProject\\MyFinalProject\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "MyFinalProject\\Models\\Game.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\FinalExam\\MyFinalProject\\MyFinalProject\\Models\\Game.cs",
+              "RelativeToolTip": "MyFinalProject\\Models\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T09:27:12.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\FinalExam\\MyFinalProject\\MyFinalProject\\Areas\\AdminPanel\\Views\\Game\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyFinalProject\\Areas\\AdminPanel\\Views\\Game\\Index.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\FinalExam\\MyFinalProject\\MyFinalProject\\Areas\\AdminPanel\\Views\\Game\\Index.cshtml",
+              "RelativeToolTip": "MyFinalProject\\Areas\\AdminPanel\\Views\\Game\\Index.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-22T09:05:01.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\FinalExam\\MyFinalProject\\MyFinalProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MyFinalProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\FinalExam\\MyFinalProject\\MyFinalProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MyFinalProject\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T09:04:31.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\FinalExam\\MyFinalProject\\MyFinalProject\\Areas\\AdminPanel\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "MyFinalProject\\Areas\\AdminPanel\\Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\FinalExam\\MyFinalProject\\MyFinalProject\\Areas\\AdminPanel\\Controllers\\GameController.cs",
+              "RelativeToolTip": "MyFinalProject\\Areas\\AdminPanel\\Controllers\\GameController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T09:04:19.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\FinalExam\\MyFinalProject\\MyFinalProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyFinalProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\FinalExam\\MyFinalProject\\MyFinalProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MyFinalProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-22T08:35:22.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\FinalExam\\MyFinalProject\\MyFinalProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyFinalProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\FinalExam\\MyFinalProject\\MyFinalProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyFinalProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAnwDQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-22T08:33:15.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\FinalExam\\MyFinalProject\\MyFinalProject\\Areas\\AdminPanel\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "MyFinalProject\\Areas\\AdminPanel\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\FinalExam\\MyFinalProject\\MyFinalProject\\Areas\\AdminPanel\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "MyFinalProject\\Areas\\AdminPanel\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBwAAACqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-22T08:32:58.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\FinalExam\\MyFinalProject\\MyFinalProject\\Areas\\AdminPanel\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyFinalProject\\Areas\\AdminPanel\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\FinalExam\\MyFinalProject\\MyFinalProject\\Areas\\AdminPanel\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "MyFinalProject\\Areas\\AdminPanel\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-22T08:32:44.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
